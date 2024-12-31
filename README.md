@@ -1,8 +1,8 @@
-<h2 align="left"></h2>
+<h2 align="left">Hi 👋! My name is Shamit Savant and I'm a Master's Student in the Electrical and Computer Engineering Department at The University of Florida!</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxob294aHN2d2txYmxqcm9tMjFkdG5ucDZqdnV4NGFzeW80eDNmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIP53Yk7iUZBXzzy/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/tliXLSkzfq2C4/giphy.gif?cid=790b7611aiireajh8linpvgf7qjs6b40egm9j4nn1sfwmwd3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -45,11 +45,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SHaMiT19/SHaMiT19/output/snake.svg" alt="Snake animation" />
 
 ###
